@@ -1,1 +1,1 @@
-# Panivnyk Studio
+# Panivnyk-Studio
